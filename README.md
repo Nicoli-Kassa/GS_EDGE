@@ -235,7 +235,19 @@ void loop(){
 ### Ambiente
 > O sistema de monitoramento deve ser posicionado em um local adequado que queremos monitorar, como em algum ponto do mar ou em um ponto específico da costa.
 
-### Dados
+### Dados importantes
+>* Temperatura ideal para a água: 5ºC a 30ºC
+>* Temperatura ideal para os corais: 23°C e 26°C
+>* Luminosidade ideal para os corais: 
+>   * Corais de águas RASAS (menos de 30m de profundidade):  2000 lux a 5500 lux
+>   * Corais de águas PROFUNDAS (mais de 30m de profundidade): 5500 lux - 13200 lux 
+> * pH: 
+>   * 0 - 6 ⇒ ácido
+>   * 7 ⇒ neutro
+>   * 8 - 14 ⇒ básico
+
+
+### Resultados
 > Após o sistema ser implementado e posicionado em um local que queremos monitorar. Deve ser apresentado as seguintes informações:
 
 * Temperatura: xxºC
@@ -258,7 +270,7 @@ void loop(){
 >Com esse projeto esperamos, além de obter os dados sobre as condições ambientais, compreender melhor o estado atual dos ecossistemas marinhos e  identificarmos os problemas que os oceanos enfrentam. Ademais, a análise desses dados pode nos fornecer uma compreensão mais profunda ou inesperada sobre as tendências de mudanças climáticas, impactos das atividades humanas e a saúde dos ecossistemas aquáticos. Com uma compreensão melhor desses aspectos as empresas, startups e  ONG’s podem criem soluções eficazes para contribuir com a preservação dos oceanos e a vida marinha
 
 # Links
-#### [Simulação do projeto](https://wokwi.com/projects/399335503838339073).
+#### [Simulação do projeto](https://wokwi.com/projects/399335503838339073)
 
 #### [Vídeo explicativo do projeto] ()
 
