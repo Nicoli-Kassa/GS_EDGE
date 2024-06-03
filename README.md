@@ -258,5 +258,8 @@ void loop(){
 >Com esse projeto esperamos, além de obter os dados sobre as condições ambientais, compreender melhor o estado atual dos ecossistemas marinhos e  identificarmos os problemas que os oceanos enfrentam. Ademais, a análise desses dados pode nos fornecer uma compreensão mais profunda ou inesperada sobre as tendências de mudanças climáticas, impactos das atividades humanas e a saúde dos ecossistemas aquáticos. Com uma compreensão melhor desses aspectos as empresas, startups e  ONG’s podem criem soluções eficazes para contribuir com a preservação dos oceanos e a vida marinha
 
 # Links
-#### Simulação: https://wokwi.com/projects/399335503838339073
-#### Vídeo explicativo do projeto: Colocar link do vídeo
+#### [Simulação do projeto](https://wokwi.com/projects/399335503838339073).
+
+#### [Vídeo explicativo do projeto] ()
+
+#### [Código Fonte em C++](https://github.com/Nicoli-Kassa/GS_EDGE/blob/main/codigoFonte.c%2B%2B)
