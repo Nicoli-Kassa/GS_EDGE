@@ -20,7 +20,7 @@
 ![Esquema do projeto](./imagens/EsquemaArduino.png)
 
 ### Código fonte em C++
-```
+~~~ C++
 // DS18B20 -> Sensor de temperatura
 #include <OneWire.h>
 #include <DallasTemperature.h>
@@ -230,7 +230,7 @@ void loop(){
 
   Serial.println(" ");
 }
-```
+~~~
 
 ### Ambiente
 > O sistema de monitoramento deve ser posicionado em um local adequado que queremos monitorar, como em algum ponto do mar ou em um ponto específico da costa.
