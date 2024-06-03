@@ -272,6 +272,6 @@ void loop(){
 # Links
 #### [Simulação do projeto](https://wokwi.com/projects/399335503838339073)
 
-#### [Vídeo explicativo do projeto] ()
+#### [Vídeo explicativo do projeto](https://drive.google.com/file/d/1NxBu7xgCrZG64Ffi1wBnIgYfqvZukCJg/view?usp=sharing)
 
 #### [Código Fonte em C++](https://github.com/Nicoli-Kassa/GS_EDGE/blob/main/codigoFonte.c%2B%2B)
