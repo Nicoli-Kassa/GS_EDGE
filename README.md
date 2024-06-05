@@ -1,5 +1,12 @@
 # AquaVision - GS
 
+Integrantes   | RM
+--------- | ------
+Camila Pedroza da Cunha | RM 558768
+Isabelle Dallabeneta Carlesso | RM 554592
+Nicoli Amy Kassa | RM 559104
+
+### AquaVision Center
 > A AquaVision propõe criar uma plataforma abrangente dedicada à **conservação dos oceanos**, unindo empresas, ONGs, startups e pesquisadores em uma missão em comum de proteger e revitalizar o meio marinho. A AquaVision coletará e exibirá dados sobre a qualidade da água dos oceanos, dados como a temperatura da água, a luminosidade, acidificação dos oceanos e outras variáveis ambientais. Com esses dados, os principais problemas enfrentados pelos oceanos serão identificados e apresentados, podendo assim, serem solucionados. O objetivo da AquaVision é unir projetos para o bem marinho com empresas que possam ajudar financeiramente. 
 
 ### Descrição do Projeto
