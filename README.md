@@ -291,3 +291,5 @@ void loop(){
 #### [Vídeo explicativo do projeto](https://drive.google.com/file/d/1NxBu7xgCrZG64Ffi1wBnIgYfqvZukCJg/view?usp=sharing)
 
 #### [Código Fonte em C++](https://github.com/Nicoli-Kassa/GS_EDGE/blob/main/codigoFonte.c%2B%2B)
+
+#### [AquaVision Center Plataforma](https://nicoli-kassa.github.io/GS_AquaVisionCenter/)
